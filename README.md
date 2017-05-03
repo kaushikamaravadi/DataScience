@@ -8,6 +8,9 @@
 
 ## Table of contents
 
+* [Stock Market Analysis](https://github.com/kaushikamaravadi/DataScience/tree/master/StockMarketAnalysis)
+  * Stock Market Analysis.ipynb
+  * Stock Market Analysis Html Version
 * [IMDB](https://github.com/kaushikamaravadi/DataScience/tree/master/imdb)
   * The imdb data set is extracted from imdb by scraping the website. The Dataset consist of 6790 entries.
   * imdb.ipynb
@@ -24,9 +27,6 @@
   * stack_overflow.ipynb
   * stack_overflow2016 data analysis
   * stack overflow html version
-* [Stock Market Analysis](https://github.com/kaushikamaravadi/DataScience/tree/master/StockMarketAnalysis)
-  * Stock Market Analysis.ipynb
-  * Stock Market Analysis Html Version
 * [Titanic](https://github.com/kaushikamaravadi/DataScience/tree/master/titanic)
   * Titanic data analysis
   * Kaggle Titanic solution
